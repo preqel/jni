@@ -11,13 +11,13 @@ cmake_minimum_required(VERSION 3.4.1)
 # Gradle automatically packages shared libraries with your APK.
 
 add_library( # Sets the name of the library.
-             jnilib
+             native
 
              # Sets the library as a shared library.
              SHARED
 
              # Provides a relative path to your source file(s).
-             ../jni/main.cpp )
+             ../jni/main.cpp ../jni/AesUtil.cpp )
 
 # Searches for a specified prebuilt library and stores the path as a
 # variable. Because CMake includes system libraries in the search path by
@@ -37,8 +37,12 @@ find_library( # Sets the name of the path variable.
 # build script, prebuilt third-party libraries, or system libraries.
 
 target_link_libraries( # Specifies the target library.
-                       jnilib
+                       native
 
                        # Links the target library to the log library
                        # included in the NDK.
                        ${log-lib} )
+INCLUDE_DIRECTORIES(
+../jni/openssllib/include/openssl/
+)
+LINK_DIRECTORIES(../jni/openssllib/${ANDROID_ABI}/)  #动态链接库

@@ -7,4 +7,5 @@ public class JNITest {
     }
 
     public native String getString();
+
 }
