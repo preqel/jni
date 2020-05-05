@@ -1,0 +1,56 @@
+{
+  "buildFiles": [
+    "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/src/main/java/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/preqel/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/release/x86 --target clean"
+  ],
+  "libraries": {
+    "jnilib-Release-x86": {
+      "artifactName": "jnilib",
+      "buildCommand": "/Users/preqel/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/release/x86 --target jnilib",
+      "abi": "x86",
+      "output": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/build/intermediates/cmake/release/obj/x86/libjnilib.so"
+    },
+    "swscale-3-Release-x86": {
+      "artifactName": "swscale-3",
+      "abi": "x86",
+      "output": "../../../../libs/armeabi-v7a/libswscale-3.so"
+    },
+    "postproc-53-Release-x86": {
+      "artifactName": "postproc-53",
+      "abi": "x86",
+      "output": "../../../../libs/armeabi-v7a/libpostproc-53.so"
+    },
+    "swresample-1-Release-x86": {
+      "artifactName": "swresample-1",
+      "abi": "x86",
+      "output": "../../../../libs/armeabi-v7a/libswresample-1.so"
+    },
+    "avcodec-56-Release-x86": {
+      "artifactName": "avcodec-56",
+      "abi": "x86",
+      "output": "../../../../libs/armeabi-v7a/libavcodec-56.so"
+    },
+    "avdevice-56-Release-x86": {
+      "artifactName": "avdevice-56",
+      "abi": "x86",
+      "output": "../../../../libs/armeabi-v7a/libavdevice-56.so"
+    },
+    "avutil-54-Release-x86": {
+      "artifactName": "avutil-54",
+      "abi": "x86",
+      "output": "../../../../libs/armeabi-v7a/libavutil-54.so"
+    },
+    "avformat-56-Release-x86": {
+      "artifactName": "avformat-56",
+      "abi": "x86",
+      "output": "../../../../libs/armeabi-v7a/libavformat-56.so"
+    },
+    "avfilter-5-Release-x86": {
+      "artifactName": "avfilter-5",
+      "abi": "x86",
+      "output": "../../../../libs/armeabi-v7a/libavfilter-5.so"
+    }
+  }
+}

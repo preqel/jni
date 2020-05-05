@@ -1,0 +1,70 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni",
+      "sdkFolder": "/Users/preqel/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "ideBuildTargetAbi": "arm64-v8a,armeabi-v7a,armeabi",
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app",
+      "makeFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/src/main/java/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/.cxx",
+      "cxxFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx",
+      "ndkFolder": "/Users/preqel/Library/Android/sdk/ndk-bundle",
+      "ndkVersion": "20.0.5594570",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "debug",
+    "soFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/build/intermediates/cmake/debug/lib",
+    "objFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/build/intermediates/cmake/debug/obj",
+    "jsonFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/debug",
+    "gradleBuildOutputFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cxx/debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/debug/armeabi-v7a",
+  "jsonFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/debug/armeabi-v7a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cxx/debug/armeabi-v7a",
+  "objFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/build/intermediates/cmake/debug/obj/armeabi-v7a",
+  "buildCommandFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/debug/armeabi-v7a/build_command.txt",
+  "buildOutputFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/debug/armeabi-v7a/build_output.txt",
+  "modelOutputFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/debug/armeabi-v7a/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cxx/debug/armeabi-v7a/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cxx/debug/armeabi-v7a/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cxx/debug/armeabi-v7a/build_generation_state.json",
+    "cacheKeyFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cxx/debug/armeabi-v7a/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cxx/debug/armeabi-v7a/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cxx/debug/armeabi-v7a/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cxx/debug/armeabi-v7a/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/debug/armeabi-v7a/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/debug/armeabi-v7a/compile_commands.json"
+}

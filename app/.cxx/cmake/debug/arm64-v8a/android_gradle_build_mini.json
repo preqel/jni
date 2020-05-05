@@ -1,0 +1,56 @@
+{
+  "buildFiles": [
+    "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/src/main/java/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/preqel/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/debug/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "avdevice-56-Debug-arm64-v8a": {
+      "artifactName": "avdevice-56",
+      "abi": "arm64-v8a",
+      "output": "../../../../libs/armeabi-v7a/libavdevice-56.so"
+    },
+    "avutil-54-Debug-arm64-v8a": {
+      "artifactName": "avutil-54",
+      "abi": "arm64-v8a",
+      "output": "../../../../libs/armeabi-v7a/libavutil-54.so"
+    },
+    "swscale-3-Debug-arm64-v8a": {
+      "artifactName": "swscale-3",
+      "abi": "arm64-v8a",
+      "output": "../../../../libs/armeabi-v7a/libswscale-3.so"
+    },
+    "avformat-56-Debug-arm64-v8a": {
+      "artifactName": "avformat-56",
+      "abi": "arm64-v8a",
+      "output": "../../../../libs/armeabi-v7a/libavformat-56.so"
+    },
+    "avcodec-56-Debug-arm64-v8a": {
+      "artifactName": "avcodec-56",
+      "abi": "arm64-v8a",
+      "output": "../../../../libs/armeabi-v7a/libavcodec-56.so"
+    },
+    "swresample-1-Debug-arm64-v8a": {
+      "artifactName": "swresample-1",
+      "abi": "arm64-v8a",
+      "output": "../../../../libs/armeabi-v7a/libswresample-1.so"
+    },
+    "jnilib-Debug-arm64-v8a": {
+      "artifactName": "jnilib",
+      "buildCommand": "/Users/preqel/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/debug/arm64-v8a --target jnilib",
+      "abi": "arm64-v8a",
+      "output": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/build/intermediates/cmake/debug/obj/arm64-v8a/libjnilib.so"
+    },
+    "avfilter-6-Debug-arm64-v8a": {
+      "artifactName": "avfilter-6",
+      "abi": "arm64-v8a",
+      "output": "../../../../libs/armeabi-v7a/libavfilter-6.so"
+    },
+    "postproc-53-Debug-arm64-v8a": {
+      "artifactName": "postproc-53",
+      "abi": "arm64-v8a",
+      "output": "../../../../libs/armeabi-v7a/libpostproc-53.so"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni",
+      "sdkFolder": "/Users/preqel/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app",
+      "makeFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/src/main/java/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/.cxx",
+      "cxxFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx",
+      "ndkFolder": "/Users/preqel/Library/Android/sdk/ndk-bundle",
+      "ndkVersion": "20.0.5594570",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "release",
+    "soFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/build/intermediates/cmake/release/lib",
+    "objFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/build/intermediates/cmake/release/obj",
+    "jsonFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/release",
+    "gradleBuildOutputFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cxx/release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/release/arm64-v8a",
+  "jsonFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/release/arm64-v8a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cxx/release/arm64-v8a",
+  "objFolder": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/build/intermediates/cmake/release/obj/arm64-v8a",
+  "buildCommandFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/release/arm64-v8a/build_command.txt",
+  "buildOutputFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/release/arm64-v8a/build_output.txt",
+  "modelOutputFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/release/arm64-v8a/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cxx/release/arm64-v8a/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cxx/release/arm64-v8a/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cxx/release/arm64-v8a/build_generation_state.json",
+    "cacheKeyFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cxx/release/arm64-v8a/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cxx/release/arm64-v8a/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cxx/release/arm64-v8a/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cxx/release/arm64-v8a/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/release/arm64-v8a/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/release/arm64-v8a/compile_commands.json"
+}

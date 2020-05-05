@@ -1,6 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
+
     compileSdkVersion 26
     defaultConfig {
         applicationId "jni.example.com.testjni6"
@@ -10,7 +11,7 @@ android {
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         ndk {
-            abiFilters 'armeabi', 'armeabi-v7a','x86'
+            abiFilters  'armeabi-v7a'
         }
 
         externalNativeBuild {
@@ -30,6 +31,11 @@ android {
     externalNativeBuild {
         cmake {
             path "src/main/java/CMakeLists.txt"  // 设置所要编写的c源码位置，以及编译后so文件的名字
+        }
+    }
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
         }
     }
 }

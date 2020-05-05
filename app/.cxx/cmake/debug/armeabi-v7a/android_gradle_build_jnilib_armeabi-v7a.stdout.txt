@@ -1,0 +1,2 @@
+[1/2] Building CXX object CMakeFiles/jnilib.dir/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/src/main/jni/main.cpp.o
+[2/2] Linking CXX shared library /Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libjnilib.so

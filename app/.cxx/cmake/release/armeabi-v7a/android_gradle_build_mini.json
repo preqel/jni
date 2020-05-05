@@ -1,0 +1,56 @@
+{
+  "buildFiles": [
+    "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/src/main/java/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/preqel/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/release/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "avutil-55-Release-armeabi-v7a": {
+      "artifactName": "avutil-55",
+      "abi": "armeabi-v7a",
+      "output": "../../../../libs/armeabi-v7a/libavutil-55.so"
+    },
+    "swresample-2-Release-armeabi-v7a": {
+      "artifactName": "swresample-2",
+      "abi": "armeabi-v7a",
+      "output": "../../../../libs/armeabi-v7a/libswresample-2.so"
+    },
+    "avformat-57-Release-armeabi-v7a": {
+      "artifactName": "avformat-57",
+      "abi": "armeabi-v7a",
+      "output": "../../../../libs/armeabi-v7a/libavformat-57.so"
+    },
+    "jnilib-Release-armeabi-v7a": {
+      "artifactName": "jnilib",
+      "buildCommand": "/Users/preqel/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/release/armeabi-v7a --target jnilib",
+      "abi": "armeabi-v7a",
+      "output": "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/build/intermediates/cmake/release/obj/armeabi-v7a/libjnilib.so"
+    },
+    "swscale-4-Release-armeabi-v7a": {
+      "artifactName": "swscale-4",
+      "abi": "armeabi-v7a",
+      "output": "../../../../libs/armeabi-v7a/libswscale-4.so"
+    },
+    "avcodec-57-Release-armeabi-v7a": {
+      "artifactName": "avcodec-57",
+      "abi": "armeabi-v7a",
+      "output": "../../../../libs/armeabi-v7a/libavcodec-57.so"
+    },
+    "avdevice-57-Release-armeabi-v7a": {
+      "artifactName": "avdevice-57",
+      "abi": "armeabi-v7a",
+      "output": "../../../../libs/armeabi-v7a/libavdevice-57.so"
+    },
+    "avfilter-6-Release-armeabi-v7a": {
+      "artifactName": "avfilter-6",
+      "abi": "armeabi-v7a",
+      "output": "../../../../libs/armeabi-v7a/libavfilter-6.so"
+    },
+    "postproc-54-Release-armeabi-v7a": {
+      "artifactName": "postproc-54",
+      "abi": "armeabi-v7a",
+      "output": "../../../../libs/armeabi-v7a/libpostproc-54.so"
+    }
+  }
+}

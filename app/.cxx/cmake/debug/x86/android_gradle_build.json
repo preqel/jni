@@ -1,0 +1,105 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/src/main/java/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/preqel/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/debug/x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"avcodec-56-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "avcodec-56",
+			"buildType" : "debug",
+			"output" : "../../../../libs/armeabi-v7a/libavcodec-56.so",
+			"toolchain" : "17123134495576202612"
+		},
+		"avdevice-56-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "avdevice-56",
+			"buildType" : "debug",
+			"output" : "../../../../libs/armeabi-v7a/libavdevice-56.so",
+			"toolchain" : "17123134495576202612"
+		},
+		"avfilter-5-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "avfilter-5",
+			"buildType" : "debug",
+			"output" : "../../../../libs/armeabi-v7a/libavfilter-5.so",
+			"toolchain" : "17123134495576202612"
+		},
+		"avformat-56-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "avformat-56",
+			"buildType" : "debug",
+			"output" : "../../../../libs/armeabi-v7a/libavformat-56.so",
+			"toolchain" : "17123134495576202612"
+		},
+		"avutil-54-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "avutil-54",
+			"buildType" : "debug",
+			"output" : "../../../../libs/armeabi-v7a/libavutil-54.so",
+			"toolchain" : "17123134495576202612"
+		},
+		"jnilib-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "jnilib",
+			"buildCommand" : "/Users/preqel/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/debug/x86 --target jnilib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android16 --gcc-toolchain=/Users/preqel/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/preqel/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Djnilib_EXPORTS -I/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/src/main/java/libs/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/src/main/jni/main.cpp",
+					"workingDirectory" : "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/.cxx/cmake/debug/x86"
+				}
+			],
+			"output" : "/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/build/intermediates/cmake/debug/obj/x86/libjnilib.so",
+			"toolchain" : "17123134495576202612"
+		},
+		"postproc-53-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "postproc-53",
+			"buildType" : "debug",
+			"output" : "../../../../libs/armeabi-v7a/libpostproc-53.so",
+			"toolchain" : "17123134495576202612"
+		},
+		"swresample-1-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "swresample-1",
+			"buildType" : "debug",
+			"output" : "../../../../libs/armeabi-v7a/libswresample-1.so",
+			"toolchain" : "17123134495576202612"
+		},
+		"swscale-3-Debug-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "swscale-3",
+			"buildType" : "debug",
+			"output" : "../../../../libs/armeabi-v7a/libswscale-3.so",
+			"toolchain" : "17123134495576202612"
+		}
+	},
+	"toolchains" : 
+	{
+		"17123134495576202612" : 
+		{
+			"cCompilerExecutable" : "/Users/preqel/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/preqel/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

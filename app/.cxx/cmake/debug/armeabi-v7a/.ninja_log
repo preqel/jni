@@ -1,0 +1,15 @@
+# ninja log v5
+0	363	0	CMakeFiles/jnilib.dir/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/src/main/jni/main.cpp.o	9351d2562ac57d3
+364	446	0	/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libjnilib.so	b973bc8d975c33dd
+1	45	0	/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libjnilib.so	ef95fcab28c2aa13
+1	57	0	/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libjnilib.so	5a449db1151791b0
+1	344	0	CMakeFiles/jnilib.dir/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/src/main/jni/main.cpp.o	9351d2562ac57d3
+344	385	0	/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libjnilib.so	5a449db1151791b0
+1	327	0	CMakeFiles/jnilib.dir/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/src/main/jni/main.cpp.o	7a892c237df9e956
+327	375	0	/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libjnilib.so	5a449db1151791b0
+1	409	0	CMakeFiles/jnilib.dir/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/src/main/jni/main.cpp.o	302db729cd917af5
+1	406	0	CMakeFiles/jnilib.dir/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/src/main/jni/main.cpp.o	302db729cd917af5
+1	359	0	CMakeFiles/jnilib.dir/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/src/main/jni/main.cpp.o	302db729cd917af5
+0	342	0	CMakeFiles/jnilib.dir/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/src/main/jni/main.cpp.o	cf984ccb358e0475
+0	369	0	CMakeFiles/jnilib.dir/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/src/main/jni/main.cpp.o	cf984ccb358e0475
+369	407	0	/Users/preqel/AndroidStudioProjects/ffmpeg/jni/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libjnilib.so	5a449db1151791b0
